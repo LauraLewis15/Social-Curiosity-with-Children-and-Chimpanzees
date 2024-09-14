@@ -1,0 +1,120 @@
+﻿ID,Age_Years,Birthday,Date_Tested,Age_Months,Gender,Test_Date ,Test_Location,Trial_Number,Social_Video_Side,Video_Names,Fam_Right_Box,Fam_Left_Box,Opens_RightVideo,Opens_LeftVideo,RightVideo_Height,LeftVideo_Height,RightVideo_Time,LeftVideo_Time,N_Switch
+1_6M_Zoo,6,4/7/17,7/26/23,75,M,7/26/23,Zoo,1,L,Social_Play_M1 / Nonsocial_Caregiving_M2,1,1,0,1,0,8,0,30,0
+1_6M_Zoo,6,4/7/17,7/26/23,75,M,7/26/23,Zoo,2,L,Social_Conflict_M1 / Nonsocial_Grooming_M2,1,1,1,1,8,8,26,3,1
+1_6M_Zoo,6,4/7/17,7/26/23,75,M,7/26/23,Zoo,3,L,Social_Grooming_M1 / Nonsocial_Conflict_M2 ,1,1,1,1,7,8,1,22,2
+1_6M_Zoo,6,4/7/17,7/26/23,75,M,7/26/23,Zoo,4,L,Social_Caregiving_M1 / Nonsocial_Play_M2,1,1,1,1,7,7,20,5,2
+2_6M_Zoo ,6,4/29/17,7/26/23,74,M,7/26/23,Zoo,1,L,Social_Conflict_M1 / Nonsocial_Play_M2 ,1,1,1,0,10,0,24,0,0
+2_6M_Zoo ,6,4/29/17,7/26/23,74,M,7/26/23,Zoo,2,L,Social_Play_M1 / Nonsocial_Grooming_M2,1,1,1,1,10,10,5,18,1
+2_6M_Zoo ,6,4/29/17,7/26/23,74,M,7/26/23,Zoo,3,L,Social_Caregiving_M1 / Nonsocial_Conflict_M2,1,1,1,1,11,10,11,12,2
+2_6M_Zoo ,6,4/29/17,7/26/23,74,M,7/26/23,Zoo,4,L,Social_Grooming_M1 / Nonsocial_Caregiving_M2,1,1,1,1,11,10,6,6,1
+3_6M_Zoo,6,1/24/17,7/26/23,78,M,7/26/23,Zoo,1,L,Social_Grooming_M1 / Nonsocial_Conflict_M2,1,1,1,1,10,11,12,2,1
+3_6M_Zoo,6,1/24/17,7/26/23,78,M,7/26/23,Zoo,2,L,Social_Caregiving_M1 / Nonsocial_Play_M2,1,1,1,0,10,0,27,0,0
+3_6M_Zoo,6,1/24/17,7/26/23,78,M,7/26/23,Zoo,3,L,Social_Play_M1 / Nonsocial_Conflict_M2 ,1,1,0,1,0,12,0,28,0
+3_6M_Zoo,6,1/24/17,7/26/23,78,M,7/26/23,Zoo,4,L,Social_Conflict_M1 / Nonsocial_Caregiving_M2 ,1,1,1,1,10,10,14,9,1
+1_6F_Zoo ,6,12/5/16,7/28/23,79,F,7/28/23,Zoo,1,L,Social_Play_F1 / Nonsocial_Caregiving_F2 ,1,1,0,1,0,8,0,23,0
+1_6F_Zoo ,6,12/5/16,7/28/23,79,F,7/28/23,Zoo,2,L,Social_Conflict_F1 / Nonsocial_Grooming_F2,1,1,1,0,9,0,28,0,0
+1_6F_Zoo ,6,12/5/16,7/28/23,79,F,7/28/23,Zoo,3,L,Social_Grooming_F1 / Nonsocial_Conflict_F1,1,1,0,1,0,8,0,28,0
+1_6F_Zoo ,6,12/5/16,7/28/23,79,F,7/28/23,Zoo,4,L,Social_Caregiving_F1 / Nonsocial_Play_F2 ,1,1,1,0,8,0,28,0,0
+4_5M_Zoo ,5,1/17/18,7/28/23,66,M,7/28/23,Zoo,1,L,Social_Caregiving_M1 / Nonsocial_Grooming_M2,1,1,1,1,5,6,10,16,1
+4_5M_Zoo ,5,1/17/18,7/28/23,66,M,7/28/23,Zoo,2,L,Social_Grooming_M1 / Nonsocial_Conflict_M2,1,1,0,0,0,0,0,0,0
+4_5M_Zoo ,5,1/17/18,7/28/23,66,M,7/28/23,Zoo,3,L,Social_Conflict_M1/ Nonsocial_Play_M2,1,1,0,1,0,8,0,22,0
+4_5M_Zoo ,5,1/17/18,7/28/23,66,M,7/28/23,Zoo,4,L,Social_Play_M1 / Nonsocial_Caregiving_M2,1,1,0,1,0,7,0,28,0
+2_5F_Zoo,5,3/5/18,7/28/23,64,F,7/28/23,Zoo,1,L,Social_Conflict_F2/ Nonsocial_Play_F2,1,1,1,1,8,7,16,6,3
+2_5F_Zoo,5,3/5/18,7/28/23,64,F,7/28/23,Zoo,2,L,Social_Play_F1/ Nonsocial_Grooming_F2 ,1,1,1,1,7,8,1,16,1
+2_5F_Zoo,5,3/5/18,7/28/23,64,F,7/28/23,Zoo,3,L,Social_Caregiving_F1/ Nonsocial_Conflict_F2 ,1,1,1,1,8,7,20,6,1
+2_5F_Zoo,5,3/5/18,7/28/23,64,F,7/28/23,Zoo,4,L,Social_Grooming_F1/ Nonsocial_Caregiving_F2 ,1,1,1,1,8,8,3,14,1
+5_5M_Zoo,4,1/1/19,7/28/23,54,M,7/28/23,Zoo,1,L,Social_Play_M2/ Nonsocial_Conflict_M2 ,1,1,1,1,7,7,5,9,1
+5_5M_Zoo,4,1/1/19,7/28/23,54,M,7/28/23,Zoo,2,L,Social_Caregiving_M1/Nonsocial_Grooming_M1,1,1,1,1,8,8,7,12,1
+5_5M_Zoo,4,1/1/19,7/28/23,54,M,7/28/23,Zoo,3,L,Social_Grooming_M2/Nonsocial_Play_M2 ,1,1,1,1,8,8,12,9,1
+5_5M_Zoo,4,1/1/19,7/28/23,54,M,7/28/23,Zoo,4,L,Social_Conflict_M/Nonsocial_Caregiving_M2,1,1,1,1,7,10,4,17,1
+6_4M_Zoo,4,1/1/19,7/28/23,54,M,7/28/23,Zoo,1,L,Nonsocial_Play_M2/ Social_Conflict_M2,1,1,1,1,9,10,9,7,1
+6_4M_Zoo,4,1/1/19,7/28/23,54,M,7/28/23,Zoo,2,L,Nonsocial_Grooming_M1/ Social_Caregiving_M1 ,1,1,1,1,11,9,7,12,1
+6_4M_Zoo,4,1/1/19,7/28/23,54,M,7/28/23,Zoo,3,L,Nonsocial_Conflict_M1/ Social_Play_M2 ,1,1,1,1,9,9,8,11,1
+6_4M_Zoo,4,1/1/19,7/28/23,54,M,7/28/23,Zoo,4,L,Nonsocial_Caregiving_M/ Social_Grooming_M2,1,1,1,1,10,8,18,7,1
+7_6M_Zoo ,6,8/5/16,7/29/23,83,M,7/29/23,Zoo,1,L,Social_Grooming_M2/Nonsocial_Conflict_M2 ,1,1,1,0,12,0,18,0,0
+7_6M_Zoo ,6,8/5/16,7/29/23,83,M,7/29/23,Zoo,2,L,Social_Conflict_M2/Nonsocial_Grooming_M2,1,1,0,1,0,12,28,0,0
+7_6M_Zoo ,6,8/5/16,7/29/23,83,M,7/29/23,Zoo,3,L,Social_Play_M1/Nonsocial_Conflict_M2,1,1,1,0,11,0,28,0,0
+7_6M_Zoo ,6,8/5/16,7/29/23,83,M,7/29/23,Zoo,4,L,Social_Grooming_M2/Nonsocial_Play_M2 ,1,1,1,0,13,0,26,0,0
+8_6M_Zoo,6,8/5/16,7/29/23,83,M,7/29/23,Zoo,1,L,Social_Caregiving_M2/Nonsocial_Grooming_M1,1,1,1,0,9,0,26,0,0
+8_6M_Zoo,6,8/5/16,7/29/23,83,M,7/29/23,Zoo,2,L,Social_Play_M2/Nonsocial_Caregiving_M1,1,1,0,1,0,10,0,27,0
+8_6M_Zoo,6,8/5/16,7/29/23,83,M,7/29/23,Zoo,3,L,Social_Conflict_M2/Nonsocial_Play_M1,1,1,1,0,10,0,26,0,0
+9_4M_Zoo,4,9/19/18,7/29/23,58,M,7/29/23,Zoo,1,R,Social_Play_M1/Nonsocial_Caregiving_M1 ,1,1,0,1,0,12,0,26,0
+9_4M_Zoo,4,9/19/18,7/29/23,58,M,7/29/23,Zoo,2,R,Social_Conflict_M2/Nonsocial_Grooming_M1,1,1,1,0,12,0,21,0,0
+9_4M_Zoo,4,9/19/18,7/29/23,58,M,7/29/23,Zoo,3,R,Social_Caregiving_M2/Nonsocial_Play_M2 ,1,1,0,1,0,8,0,27,0
+9_4M_Zoo,4,9/19/18,7/29/23,58,M,7/29/23,Zoo,4,R,Social_Grooming_M2/Nonsocial_Conflict_M1 ,1,1,1,0,12,0,28,0,0
+10_5M_Zoo,5,12/25/17,7/29/23,67,M,7/29/23,Zoo,1,R,Social_Conflict_M1/Nonsocial_Play_M1,1,1,1,1,11,10,5,17,1
+10_5M_Zoo,5,12/25/17,7/29/23,67,M,7/29/23,Zoo,2,R,Social_Grooming_M2/Nonsocial_Conflict_M2,1,1,1,1,11,11,16,8,1
+10_5M_Zoo,5,12/25/17,7/29/23,67,M,7/29/23,Zoo,3,R,Social_Play_M2/Nonsocial_Caregiving_M1 ,1,1,1,0,12,0,23,0,0
+10_5M_Zoo,5,12/25/17,7/29/23,67,M,7/29/23,Zoo,4,R,Social_Caregiving_M2/Nonsocial_Grooming_M1,1,1,1,1,11,11,9,12,1
+3_5F_Zoo,5,10/5/17,7/29/23,69,F,7/29/23,Zoo,1,L,Social_Grooming_F1/Nonsocial_Conflict_F2,1,1,1,1,11,8,14,8,3
+3_5F_Zoo,5,10/5/17,7/29/23,69,F,7/29/23,Zoo,2,L,Social_Caregiving_F1/Nonsocial_Play_F2 ,1,1,1,1,8,9,10,12,4
+3_5F_Zoo,5,10/5/17,7/29/23,69,F,7/29/23,Zoo,3,L,Social_Play_F1/Nonsocial_Conflict_F1 ,1,1,1,1,7,8,8,12,4
+3_5F_Zoo,5,10/5/17,7/29/23,69,F,7/29/23,Zoo,4,L,Social_Conflict_F1/Nonsocial_Caregiving_F2,1,1,1,1,9,9,9,14,4
+11_5M_Zoo,5,9/1/17,7/29/23,70,M,7/29/23,Zoo,1,R,Social_Grooming_M1/ Nonsocial_Conflict_M1,1,1,1,0,11,0,28,0,0
+11_5M_Zoo,5,9/1/17,7/29/23,70,M,7/29/23,Zoo,2,R,Social_Play_M1/Nonsocial_Grooming_M2 ,1,1,1,0,12,0,19,0,0
+11_5M_Zoo,5,9/1/17,7/29/23,70,M,7/29/23,Zoo,3,R,Social_Conflict_M2/Nonsocial_Caregiving_M1,1,1,0,1,0,10,28,0,0
+11_5M_Zoo,5,9/1/17,7/29/23,70,M,7/29/23,Zoo,4,R,Social_Caregiving_M2/Nonsocial_Play_M2,1,1,1,0,10,0,15,0,0
+4_6F_Zoo,6,10/18/16,7/30/23,81,F,7/30/23,Zoo,1,L,Nonsocial_Grooming_F2/ Social_Caregiving_F1,1,1,1,1,8,8,8,15,1
+4_6F_Zoo,6,10/18/16,7/30/23,81,F,7/30/23,Zoo,2,L,Nonsocial_Conflict_F2/ Social_Grooming_F1,1,1,0,1,0,7,0,19,0
+4_6F_Zoo,6,10/18/16,7/30/23,81,F,7/30/23,Zoo,3,L,Nonsocial_Play_F2/ Social_Conflict_F1 ,1,1,0,1,0,9,0,28,0
+4_6F_Zoo,6,10/18/16,7/30/23,81,F,7/30/23,Zoo,4,L,Nonsocial_Caregiving_F2 / Social_Play_F1,1,1,0,1,0,7,0,25,0
+12_4M_Zoo,4,10/25/18,7/30/23,57,M,7/30/23,Zoo,1,R,Nonsocial_Grooming_M2/ Social_Caregiving_M1,1,1,1,1,10,11,10,16,1
+12_4M_Zoo,4,10/25/18,7/30/23,57,M,7/30/23,Zoo,2,R,Nonsocial_Caregiving_M2/ Social_Conflict_M2 ,1,1,1,1,10,11,9,5,1
+12_4M_Zoo,4,10/25/18,7/30/23,57,M,7/30/23,Zoo,3,R,Nonsocial_Conflict_M1/ Social_Play_M2,1,1,1,1,10,10,9,7,1
+12_4M_Zoo,4,10/25/18,7/30/23,57,M,7/30/23,Zoo,4,R,Nonsocial_Play_M1/ Social_Grooming_M1,1,1,1,0,12,0,28,0,0
+5_4F_Zoo,4,1/1/19,7/30/23,54,F,7/30/23,Zoo,1,L,Nonsocial_Conflict_F2/ Social_Play_F2,1,1,1,1,8,9,4,14,2
+5_4F_Zoo,4,1/1/19,7/30/23,54,F,7/30/23,Zoo,2,L,Nonsocial_Grooming_F1/ Social_Caregiving_F1 ,1,1,1,1,10,8,13,14,2
+5_4F_Zoo,4,1/1/19,7/30/23,54,F,7/30/23,Zoo,3,L,Nonsocial_Play_F1/ Social_Grooming_F2 ,1,1,1,1,7,9,7,18,2
+5_4F_Zoo,4,1/1/19,7/30/23,54,F,7/30/23,Zoo,4,L,Nonsocial_Caregiving_F2/ Social_Conflict_F1,1,1,1,1,9,10,5,19,2
+6_5F_Zoo,5,4/10/18,7/30/23,63,F,7/30/23,Zoo,1,L,Nonsocial_Play_F2/ Social_Conflict_F2,1,1,1,1,7,8,9,7,1
+6_5F_Zoo,5,4/10/18,7/30/23,63,F,7/30/23,Zoo,2,L,Nonsocial_Grooming_F1/ Social_Caregiving_F1,1,1,1,1,7,10,10,17,1
+6_5F_Zoo,5,4/10/18,7/30/23,63,F,7/30/23,Zoo,3,L,Nonsocial_Conflict_F1/ Social_Play_F1 ,1,1,1,1,8,8,11,16,1
+6_5F_Zoo,5,4/10/18,7/30/23,63,F,7/30/23,Zoo,4,L,Nonsocial_Caregiving_F2/ Social_Grooming_F2 ,1,1,0,1,0,7,0,28,0
+7_6F_Zoo,6,3/23/17,7/30/23,76,F,7/30/23,Zoo,1,L,Social_Grooming_F2/ Nonsocial_Conflict_F2,1,1,0,1,0,8,0,28,0
+7_6F_Zoo,6,3/23/17,7/30/23,76,F,7/30/23,Zoo,2,L,Social_Conflict_F2/ Nonsocial_Caregiving_F2,1,1,0,1,0,6,0,28,0
+7_6F_Zoo,6,3/23/17,7/30/23,76,F,7/30/23,Zoo,3,L,Social_Play_F1/ Nonsocial_Grooming_F2,1,1,1,1,7,7,5,22,1
+7_6F_Zoo,6,3/23/17,7/30/23,76,F,7/30/23,Zoo,4,L,Social_Grooming_F2/ Nonsocial_Play_F1 ,1,1,1,1,9,8,21,3,1
+13_5M_Zoo,5,1/1/18,7/31/23,66,M,7/31/23,Zoo,1,R,Nonsocial_Play_M1/ Social_Conflict_M2 ,1,1,1,0,6,0,28,0,0
+13_5M_Zoo,5,1/1/18,7/31/23,66,M,7/31/23,Zoo,2,R,Nonsocial_Caregiving_M1/ Social_Grooming_M2 ,1,1,1,0,7,0,28,0,0
+13_5M_Zoo,5,1/1/18,7/31/23,66,M,7/31/23,Zoo,3,R,Nonsocial_Conflict_M1/ Social_Caregiving_M2,1,1,0,1,0,7,0,23,0
+13_5M_Zoo,5,1/1/18,7/31/23,66,M,7/31/23,Zoo,4,R,Nonsocial_Grooming_M1/ Social_Play_M2 ,1,1,1,0,8,0,27,0,0
+14_4M_Zoo,4,8/21/18,7/31/23,59,M,7/31/23,Zoo,1,R,Nonsocial_Conflict_M1/ Social_Grooming_M2 ,1,1,1,0,6,0,25,0,0
+14_4M_Zoo,4,8/21/18,7/31/23,59,M,7/31/23,Zoo,2,R,Nonsocial_Grooming_M1/ Social_Play_M2,1,1,0,1,0,7,0,28,0
+14_4M_Zoo,4,8/21/18,7/31/23,59,M,7/31/23,Zoo,3,R,Nonsocial_Play_M1/ Social_Caregiving_M1 ,1,1,1,0,8,0,29,0,0
+14_4M_Zoo,4,8/21/18,7/31/23,59,M,7/31/23,Zoo,4,R,Nonsocial_Caregiving_M2/ Social_Conflict_M2,1,1,1,0,8,0,29,0,0
+9_6F_Zoo,6,2/6/17,7/31/23,77,F,7/31/23,Zoo,1,R,Social_Play_F1/ Nonsocial_Caregiving_F1,1,1,0,1,0,8,0,27,0
+9_6F_Zoo,6,2/6/17,7/31/23,77,F,7/31/23,Zoo,2,R,Social_Conflict_F2/ Nonsocial_Grooming_F1,1,1,1,1,8,10,12,13,1
+9_6F_Zoo,6,2/6/17,7/31/23,77,F,7/31/23,Zoo,3,R,Social_Caregiving_F2/ Nonsocial_Play_F2,1,1,1,1,8,9,5,22,1
+9_6F_Zoo,6,2/6/17,7/31/23,77,F,7/31/23,Zoo,4,R,Social_Grooming_F2/ Nonsocial_Conflict_F1,1,1,1,1,9,10,15,13,1
+10_4F_Zoo,4,2/12/19,7/31/23,53,F,7/31/23,Zoo,1,R,Social_Conflict_F1 / Nonsocial_Play_F1,1,1,0,1,0,7,0,13,0
+10_4F_Zoo,4,2/12/19,7/31/23,53,F,7/31/23,Zoo,2,R,Social_Grooming_F2 / Nonsocial_Conflict_F2,1,1,0,1,0,5,0,27,0
+10_4F_Zoo,4,2/12/19,7/31/23,53,F,7/31/23,Zoo,3,R,Social_Play_F2 / Nonsocial_Caregiving_F1,1,1,1,1,6,5,11,4,1
+10_4F_Zoo,4,2/12/19,7/31/23,53,F,7/31/23,Zoo,4,R,Social_Caregiving_F2 / Nonsocial_Grooming_F1 ,1,1,1,1,7,9,18,4,1
+11_6F_LHS ,6,1/1/17,8/3/23,79,F,8/3/23,LHS,1,R,Nonsocial_Conflict_F1/Social_Grooming_F1,1,1,1,0,9,0,28,0,0
+11_6F_LHS ,6,1/1/17,8/3/23,79,F,8/3/23,LHS,2,R,Nonsocial_Grooming_F2/Social_Play_F1,1,1,0,1,0,9,0,28,0
+11_6F_LHS ,6,1/1/17,8/3/23,79,F,8/3/23,LHS,3,R,Nonsocial_Caregiving_f2/Social_Conflict_F2,1,1,1,0,8,0,28,0,0
+11_6F_LHS ,6,1/1/17,8/3/23,79,F,8/3/23,LHS,4,R,Nonsocial_Play_F2/Social_Caregiving_F2,1,1,0,1,0,9,0,28,0
+13_5F_LHS,5,9/18/17,8/3/23,70,F,8/3/23,LHS,1,R,Nonsocial_Grooming_F2 /  Social_Caregiving_F1,1,1,1,1,8,10,11,7,2
+13_5F_LHS,5,9/18/17,8/3/23,70,F,8/3/23,LHS,2,R,Nonsocial_Caregiving_F2 /  Social_Conflict_F1,1,1,1,1,7,11,6,19,1
+13_5F_LHS,5,9/18/17,8/3/23,70,F,8/3/23,LHS,3,R,Nonsocial_Conflict_F1 /  Social_Play_F2 ,1,1,1,1,12,11,10,10,3
+13_5F_LHS,5,9/18/17,8/3/23,70,F,8/3/23,LHS,4,R,Nonsocial_Play_F1 /  Social_Grooming_F1 ,1,1,1,1,8,10,10,14,2
+12_4F_LHS ,4,8/9/18,8/4/23,59,F,8/3/23,LHS,1,R,Social_Conflict_F2 /  Nonsocial_Play_F1,1,1,1,1,6,6,16,6,1
+12_4F_LHS ,4,8/9/18,8/4/23,59,F,8/3/23,LHS,2,R,Social_Grooming_F2 /  Nonsocial_Caregiving_F1,1,1,1,1,8,8,17,7,1
+12_4F_LHS ,4,8/9/18,8/4/23,59,F,8/3/23,LHS,3,R,Social_Caregiving_F2 /  Nonsocial_Conflict_F1,1,1,1,1,9,7,19,7,1
+12_4F_LHS ,4,8/9/18,8/4/23,59,F,8/3/23,LHS,4,R,Socrial_Play_F2 /  Nonsocial_Grooming_F1 ,1,1,0,1,0,7,0,29,0
+15_4M_Zoo ,4,3/31/19,8/4/23,52,M,8/4/23,Zoo,1,R,Social_Caregiving_M2 /Nonsocial_Grooming_M2,1,1,1,0,8,0,26,0,0
+15_4M_Zoo ,4,3/31/19,8/4/23,52,M,8/4/23,Zoo,2,R,Social_Grooming_M1 / Nonsocial_Play_M1,1,1,1,0,7,0,29,0,0
+15_4M_Zoo ,4,3/31/19,8/4/23,52,M,8/4/23,Zoo,3,R,Social_Conflict_M2/ Nonsocial_Play_M1 ,1,1,1,0,10,0,27,0,0
+15_4M_Zoo ,4,3/31/19,8/4/23,52,M,8/4/23,Zoo,4,R,Social_Play_M2/ Nonosocial_Grooming_M1,1,1,1,0,7,0,28,0,0
+14_4F_Zoo,4,8/14/18,8/4/23,59,F,8/4/23,Zoo,1,R,Nonsocial_Conflict_F1 /  Social_Grooming_F2,1,1,1,0,7,0,29,0,0
+14_4F_Zoo,4,8/14/18,8/4/23,59,F,8/4/23,Zoo,2,R,Nonsocial_Grooming_F1 /  Social_Play_F2,1,1,1,0,8,0,22,0,0
+14_4F_Zoo,4,8/14/18,8/4/23,59,F,8/4/23,Zoo,3,R,Nonsocial_Play_F1 /  Social_Caregiving_F1,1,1,0,1,0,8,0,29,0
+14_4F_Zoo,4,8/14/18,8/4/23,59,F,8/4/23,Zoo,4,R,Nonsocial_Caregiving_F2 /  Social_Conflict_F2,1,1,1,0,8,0,29,0,0
+15_4F_Zoo,4,9/29/18,8/4/23,58,F,8/4/23,Zoo,1,R,Social_Caregiving_F2 /  Nonsocial_Grooming_F2,1,1,0,1,0,11,0,21,0
+15_4F_Zoo,4,9/29/18,8/4/23,58,F,8/4/23,Zoo,2,R,Social_Grooming_F1 /  Nonsocial_Play_F1 ,1,1,1,0,8,0,26,0,0
+15_4F_Zoo,4,9/29/18,8/4/23,58,F,8/4/23,Zoo,3,R,Social_Conflict_F2 /  Nonsocial_Caregiving_F1,1,1,0,1,0,12,0,21,0
+15_4F_Zoo,4,9/29/18,8/4/23,58,F,8/4/23,Zoo,4,R,Social_Play_F2 /   Nonsocial_Grooming_F1,1,1,1,0,11,0,28,0,0
+8_5F_Zoo,5,12/15/17,8/4/23,67,F,7/31/23,Zoo,1,L,Nonsocial_Grooming_F1/ Social_Caregiving_F2,1,1,1,1,6,6,15,2,1
+8_5F_Zoo,5,12/15/17,8/4/23,67,F,7/31/23,Zoo,2,L,Nonsocial_Caregiving_F1/ Social_Play_F2,1,1,0,1,0,4,0,19,0
+8_5F_Zoo,5,12/15/17,8/4/23,67,F,7/31/23,Zoo,3,L,Nonsocial_Play_F1/ Social_Conflict_F2,1,1,1,1,5,6,4,14,1
+8_5F_Zoo,5,12/15/17,8/4/23,67,F,7/31/23,Zoo,4,L,Nonsocial_Conflict_F1/ Social_Grooming_F2,1,1,1,1,5,6,9,11,
