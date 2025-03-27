@@ -1,100 +1,99 @@
-﻿Participant,Gender,Test_Date,Trial_Number,Positive_Video_Side,Positive_Video_Name,Negative_Video_Name,LeftVideo_Time,RightVideo_Time,Opens_LeftVideo,Opens_RightVideo
-Subject 1: Boluku,Male,1/22/24,1,Right,Groom 1,Conflict 1,7,4,1,1
-Subject 1: Boluku,Male,1/22/24,2,Right,Play 1,Conflict 5,0,4,0,1
-Subject 1: Boluku,Male,1/24/24,3,Left,Groom 2,Conflict 4,7,6,1,1
-Subject 1: Boluku,Male,1/24/24,4,Left,Play 2,Conflict 6,20,0,1,0
-Subject 2: Indi,Male,1/22/24,1,Right,Play 1,Conflict 2,3,0,0,0
-Subject 2: Indi,Male,1/22/24,2,Right,Groom 2,Conflict 6,0,0,0,0
-Subject 2: Indi,Male,1/24/24,3,Left,Play 2,Conflict 4,0,4,0,1
-Subject 2: Indi,Male,1/24/24,4,Left,Groom 1,Conflict 5,9,3,1,1
- Subject 3: Nkuumwa,Female,1/22/24,1,Right,Groom 2,Conflict 3,25,0,1,0
- Subject 3: Nkuumwa,Female,1/22/24,2,Right,Play 2,Conflict 1,7,3,1,1
- Subject 3: Nkuumwa,Female,1/24/24,3,Left,Groom 1,Conflict 5,19,0,1,0
- Subject 3: Nkuumwa,Female,1/24/24,4,Left,Play 1,Conflict 6,7,18,1,1
-Subject 4: Becky,Female,1/22/24,1,Right,Play 2,Conflict 3,3,3,1,1
-Subject 4: Becky,Female,1/22/24,2,Right,Groom 1,Conflict 6,0,5,0,1
-Subject 4: Becky,Female,1/24/24,3,Left,Play 1,Conflict 5,4,7,1,1
-Subject 4: Becky,Female,1/24/24,4,Left,Groom 2,Conflict 4,0,4,0,1
-Subject 5: Sally,Female,1/22/24,1,Right,Groom 1,Conflict 6,25,0,1,0
-Subject 5: Sally,Female,1/22/24,2,Right,Groom 2,Conflict 1,1,0,1,0
-Subject 5: Sally,Female,1/24/24,3,Left,Play 1,Conflict 4,0,16,0,1
-Subject 5: Sally,Female,1/24/24,4,Left,Play 2,Conflict 5,4,0,1,0
-Subject 6: Robbie,Male,2/14/24,1,Right,Groom 1,Conflict 6,3,2,1,1
-Subject 6: Robbie,Male,2/14/24,2,Right,Groom 2,Conflict 4,0,0,0,0
-Subject 6: Robbie,Male,2/16/24,3,Left,Play 2,Conflict 1,0,0,0,0
-Subject 6: Robbie,Male,2/16/24,4,Left,Play 1,Conflict 2,0,7,0,1
-Subject 7: Nani,Female,1/22/24,1,Left,Play 1,Conflict 5,0,0,0,0
-Subject 7: Nani,Female,1/22/24,2,Left,Play 2,Conflict 2,0,0,0,0
-Subject 7: Nani,Female,1/24/24,3,Left,Groom 1,Conflict 6,4,7,1,1
-Subject 7: Nani,Female,1/24/24,4,Left,Groom 2,Conflict 4,0,0,0,0
-Subject 8: Medina,Female,1/22/24,1,Right,Play 2,Conflict 1,6,16,1,1
-Subject 8: Medina,Female,1/22/24,2,Right,Play 1,Conflict 6,0,7,0,1
-Subject 8: Medina,Female,1/25/24,3,Right,Groom 2,Conflict 4,0,7,0,1
-Subject 8: Medina,Female,1/25/24,4,Right,Groom 1,Conflict 5,0,5,0,1
-Subject 9: Yoyo,Female,1/22/24,1,Left,Groom 2,Conflict 3,4,5,1,1
-Subject 9: Yoyo,Female,1/22/24,2,Left,Play 1,Conflict 5,2,3,1,1
-Subject 9: Yoyo,Female,1/25/24,3,Right ,Groom 1,Conflict 4,4,2,1,1
-Subject 9: Yoyo,Female,1/25/24,4,Right ,Play 2,Conflict 6,4,11,1,1
-Subject 10: Pasa,Female,1/22/24,1,Left,Groom 1,Conflict 5,4,3,1,1
-Subject 10: Pasa,Female,1/22/24,2,Left,Play 2,Conflict 6,6,3,1,1
-Subject 10: Pasa,Female,1/25/24,3,Right ,Groom 2,Conflict 1,6,5,1,1
-Subject 10: Pasa,Female,1/25/24,4,Right ,Play 1,Conflict 4,11,11,1,1
-Subject 11: Asega,Male,1/23/24,1,Left,Play 2,Conflict 1,6,11,1,1
-Subject 11: Asega,Male,1/23/24,2,Left,Groom 2,Conflcit 2,6,9,1,1
-Subject 11: Asega,Male,1/26/24,3,Right ,Play 1,Conflict 6,3,4,1,1
-Subject 11: Asega,Male,1/26/24,4,Right ,Groom 1,Conflict 5,15,2,1,1
-Subject 12: Kalema,Male,1/23/24,1,Left,Play 1,Conflict 2,21,0,1,0
-Subject 12: Kalema,Male,1/23/24,2,Left,Groom 1,Conflict 3,0,42,0,1
-Subject 12: Kalema,Male,2/15/24,3,Right ,Play 2,Conflict 5,0,0,0,0
-Subject 12: Kalema,Male,2/15/24,4,Right ,Groom 2,Conflict 6,0,7,0,1
-Subject 13: Rambo,Male,1/23/24,1,Left,Groom 1,Conflcit 6,0,0,0,0
-Subject 13: Rambo,Male,1/23/24,2,Left,Groom 2,Conflict 5,10,4,1,1
-Subject 13: Rambo,Male,1/25/24,3,Right ,Play 2,Conflict 2,3,4,1,1
-Subject 13: Rambo,Male,1/25/24,4,Right ,Play 1,Conflict 5,6,5,1,1
-Subject 14: Okech,Male,1/23/24,1,Left,Groom 2,Conflict 3,4,16,1,1
-Subject 14: Okech,Male,1/23/24,2,Left,Groom 1,Conflict 2,10,5,1,1
-Subject 14: Okech,Male,1/25/24,3,Right ,Play 1,Conflict 6,0,4,0,1
-Subject 14: Okech,Male,1/25/24,4,Right ,Play 2,Conflict 5,0,10,0,1
-Subject 15: Billy,Female,1/23/24,1,Left,Play 2,Conflict 6,0,7,0,1
-Subject 15: Billy,Female,1/23/24,2,Left,Play 1,Conflict 5,0,0,0,0
-Subject 15: Billy,Female,1/26/24,3,Right ,Groom 1,Conflict 3,22,0,1,0
-Subject 15: Billy,Female,1/26/24,4,Right ,Groom 2,Conflict 2,0,0,0,0
-Subject 16: Bwambale,Male,1/22/24,1,Left,Play 1,Conflict 2,0,5,0,1
-Subject 16: Bwambale,Male,1/22/24,2,Left,Play 2,Conflict 6,6,3,1,1
-Subject 16: Bwambale,Male,1/24/24,3,Right ,Groom 2,Conflict 4,3,0,1,0
-Subject 16: Bwambale,Male,1/24/24,4,Right ,Groom 1,Conflict 5,0,3,0,1
-Subject 17: Umutama,Male,1/22/24,1,Left,Groom 2,Conflict 5,0,10,0,1
-Subject 17: Umutama,Male,1/22/24,2,Left,Play 2,Conflict 1,2,0,1,0
-Subject 17: Umutama,Male,1/26/24,3,Right ,Groom 1,Conflict 6,16,8,1,1
-Subject 17: Umutama,Male,1/26/24,4,Right ,Play 1,Conflict 4,20,7,1,1
-Subject 18: Kisembo,Male,1/22/24,1,Left,Play 1,Conflict 1,2,3,1,1
-Subject 18: Kisembo,Male,1/22/24,2,Left,Groom 1,Conflict 2,9,0,1,0
-Subject 18: Kisembo,Male,1/26/24,3,Right ,Play 2,Conflict 5,5,11,1,1
-Subject 18: Kisembo,Male,1/26/24,4,Right ,Groom 2,Conflict 3,3,0,1,0
-Subject 19: Namukisa,Female,1/24/24,1,Left,Groom 1,Conflict 2,2,4,1,1
-Subject 19: Namukisa,Female,1/24/24,2,Left,Play 2,Conflict 5,0,0,0,0
-Subject 19: Namukisa,Female,2/15/24,3,Right ,Groom 2,Conflict 1,0,0,0,0
-Subject 19: Namukisa,Female,2/15/24,4,Right ,Play 1,Conflict 6,0,0,0,0
-Subject 20: Kaza,Female,2/14/24,1,Right ,Groom 1,Conflict 4,0,0,0,0
-Subject 20: Kaza,Female,2/14/24,2,Right ,Play 2,Conflict 3,0,0,0,0
-Subject 20: Kaza,Female,2/15/24,3,Right ,Groom 2,Conflict 5,0,0,0,0
-Subject 20: Kaza,Female,2/15/24,4,Right ,Play 1,Conflict 1,0,5,0,1
-Subject 21: Tumbo,Male,2/14/24,1,Right ,Play 1 ,Conflict 4,2,2,1,1
-Subject 21: Tumbo,Male,2/14/24,2,Right ,Groom 1,Conflict 2,1,1,1,1
-Subject 21: Tumbo,Male,2/16/24,3,Left,Groom 2,Conflict 6,0,3,0,1
-Subject 21: Tumbo,Male,2/16/24,4,Left,Play 2,Conflict 3,6,5,1,1
-Subject 22: Eddie,Male,2/14/24,1,Right ,Play 2,Conflict 2,0,0,0,0
-Subject 22: Eddie,Male,2/14/24,2,Right ,Groom 2,Conflict 4,0,0,0,0
-Subject 22: Eddie,Male,2/16/24,3,Left,Groom 1,Conflict 1,0,0,0,0
-Subject 22: Eddie,Male,2/16/24,4,Left,Play 1 ,Conflict 6,0,0,0,0
-Subject 23: Bahati,Female,2/14/24,1,Right ,Groom 1,Conflict 1,1,4,1,1
-Subject 23: Bahati,Female,2/14/24,2,Right ,Play 1 ,Conflict 4,7,4,1,1
-Subject 23: Bahati,Female,2/15/24,3,Left,Play 2,Conflict 5,0,2,0,1
-Subject 23: Bahati,Female,2/15/24,4,Left,Groom 2,Conflict 2,6,0,1,0
-Subject 24: Mawa,Male,2/15/24,1,Left,Groom 2,Conflict 4,0,0,0,0
-Subject 24: Mawa,Male,2/15/24,2,Left,Play 2,Conflict 5,20,0,1,0
-Subject 24: Mawa,Male,2/16/24,3,Left,Play 1 ,Conflict 3,0,0,0,0
-Subject 24: Mawa,Male,2/16/24,4,Left,Groom 1,Conflict 1,0,0,0,0
-Subject 25: Rutoto ,Male,2/15/24,1,Left,Groom 1,Conflict 3,6,2,1,1
-Subject 25: Rutoto ,Male,2/15/24,2,Left,Play 2,Conflict 4,0,7,0,1
-,,,,,,,,,,
+﻿Participant,Gender,Trial_Number,Positive_Video_Side,Positive_Video_Name,Negative_Video_Name,LeftVideo_Time,RightVideo_Time,Opens_LeftVideo,Opens_RightVideo,First_Box
+Subject 1: Boluku,Male,1,Right,Groom 1,Conflict 1,7,4,1,1,
+Subject 1: Boluku,Male,2,Right,Play 1,Conflict 5,0,4,0,1,
+Subject 1: Boluku,Male,3,Left,Groom 2,Conflict 4,7,6,1,1,
+Subject 1: Boluku,Male,4,Left,Play 2,Conflict 6,20,0,1,0,
+Subject 2: Indi,Male,1,Right,Play 1,Conflict 2,3,0,0,0,
+Subject 2: Indi,Male,2,Right,Groom 2,Conflict 6,0,0,0,0,
+Subject 2: Indi,Male,3,Left,Play 2,Conflict 4,0,4,0,1,
+Subject 2: Indi,Male,4,Left,Groom 1,Conflict 5,9,3,1,1,
+ Subject 3: Nkuumwa,Female,1,Right,Groom 2,Conflict 3,25,0,1,0,
+ Subject 3: Nkuumwa,Female,2,Right,Play 2,Conflict 1,7,3,1,1,
+ Subject 3: Nkuumwa,Female,3,Left,Groom 1,Conflict 5,19,0,1,0,
+ Subject 3: Nkuumwa,Female,4,Left,Play 1,Conflict 6,7,18,1,1,
+Subject 4: Becky,Female,1,Right,Play 2,Conflict 3,3,3,1,1,
+Subject 4: Becky,Female,2,Right,Groom 1,Conflict 6,0,5,0,1,
+Subject 4: Becky,Female,3,Left,Play 1,Conflict 5,4,7,1,1,
+Subject 4: Becky,Female,4,Left,Groom 2,Conflict 4,0,4,0,1,
+Subject 5: Sally,Female,1,Right,Groom 1,Conflict 6,25,0,1,0,
+Subject 5: Sally,Female,2,Right,Groom 2,Conflict 1,1,0,1,0,
+Subject 5: Sally,Female,3,Left,Play 1,Conflict 4,0,16,0,1,
+Subject 5: Sally,Female,4,Left,Play 2,Conflict 5,4,0,1,0,
+Subject 6: Robbie,Male,1,Right,Groom 1,Conflict 6,3,2,1,1,
+Subject 6: Robbie,Male,2,Right,Groom 2,Conflict 4,0,0,0,0,
+Subject 6: Robbie,Male,3,Left,Play 2,Conflict 1,0,0,0,0,
+Subject 6: Robbie,Male,4,Left,Play 1,Conflict 2,0,7,0,1,
+Subject 7: Nani,Female,1,Left,Play 1,Conflict 5,0,0,0,0,
+Subject 7: Nani,Female,2,Left,Play 2,Conflict 2,0,0,0,0,
+Subject 7: Nani,Female,3,Left,Groom 1,Conflict 6,4,7,1,1,
+Subject 7: Nani,Female,4,Left,Groom 2,Conflict 4,0,0,0,0,
+Subject 8: Medina,Female,1,Right,Play 2,Conflict 1,6,16,1,1,
+Subject 8: Medina,Female,2,Right,Play 1,Conflict 6,0,7,0,1,
+Subject 8: Medina,Female,3,Right,Groom 2,Conflict 4,0,7,0,1,
+Subject 8: Medina,Female,4,Right,Groom 1,Conflict 5,0,5,0,1,
+Subject 9: Yoyo,Female,1,Left,Groom 2,Conflict 3,4,5,1,1,
+Subject 9: Yoyo,Female,2,Left,Play 1,Conflict 5,2,3,1,1,
+Subject 9: Yoyo,Female,3,Right ,Groom 1,Conflict 4,4,2,1,1,
+Subject 9: Yoyo,Female,4,Right ,Play 2,Conflict 6,4,11,1,1,
+Subject 10: Pasa,Female,1,Left,Groom 1,Conflict 5,4,3,1,1,
+Subject 10: Pasa,Female,2,Left,Play 2,Conflict 6,6,3,1,1,
+Subject 10: Pasa,Female,3,Right ,Groom 2,Conflict 1,6,5,1,1,
+Subject 10: Pasa,Female,4,Right ,Play 1,Conflict 4,11,11,1,1,
+Subject 11: Asega,Male,1,Left,Play 2,Conflict 1,6,11,1,1,
+Subject 11: Asega,Male,2,Left,Groom 2,Conflcit 2,6,9,1,1,
+Subject 11: Asega,Male,3,Right ,Play 1,Conflict 6,3,4,1,1,
+Subject 11: Asega,Male,4,Right ,Groom 1,Conflict 5,15,2,1,1,
+Subject 12: Kalema,Male,1,Left,Play 1,Conflict 2,21,0,1,0,
+Subject 12: Kalema,Male,2,Left,Groom 1,Conflict 3,0,42,0,1,
+Subject 12: Kalema,Male,3,Right ,Play 2,Conflict 5,0,0,0,0,
+Subject 12: Kalema,Male,4,Right ,Groom 2,Conflict 6,0,7,0,1,
+Subject 13: Rambo,Male,1,Left,Groom 1,Conflcit 6,0,0,0,0,
+Subject 13: Rambo,Male,2,Left,Groom 2,Conflict 5,10,4,1,1,
+Subject 13: Rambo,Male,3,Right ,Play 2,Conflict 2,3,4,1,1,
+Subject 13: Rambo,Male,4,Right ,Play 1,Conflict 5,6,5,1,1,
+Subject 14: Okech,Male,1,Left,Groom 2,Conflict 3,4,16,1,1,
+Subject 14: Okech,Male,2,Left,Groom 1,Conflict 2,10,5,1,1,
+Subject 14: Okech,Male,3,Right ,Play 1,Conflict 6,0,4,0,1,
+Subject 14: Okech,Male,4,Right ,Play 2,Conflict 5,0,10,0,1,
+Subject 15: Billy,Female,1,Left,Play 2,Conflict 6,0,7,0,1,
+Subject 15: Billy,Female,2,Left,Play 1,Conflict 5,0,0,0,0,
+Subject 15: Billy,Female,3,Right ,Groom 1,Conflict 3,22,0,1,0,
+Subject 15: Billy,Female,4,Right ,Groom 2,Conflict 2,0,0,0,0,
+Subject 16: Bwambale,Male,1,Left,Play 1,Conflict 2,0,5,0,1,
+Subject 16: Bwambale,Male,2,Left,Play 2,Conflict 6,6,3,1,1,
+Subject 16: Bwambale,Male,3,Right ,Groom 2,Conflict 4,3,0,1,0,
+Subject 16: Bwambale,Male,4,Right ,Groom 1,Conflict 5,0,3,0,1,
+Subject 17: Umutama,Male,1,Left,Groom 2,Conflict 5,0,10,0,1,
+Subject 17: Umutama,Male,2,Left,Play 2,Conflict 1,2,0,1,0,
+Subject 17: Umutama,Male,3,Right ,Groom 1,Conflict 6,16,8,1,1,
+Subject 17: Umutama,Male,4,Right ,Play 1,Conflict 4,20,7,1,1,
+Subject 18: Kisembo,Male,1,Left,Play 1,Conflict 1,2,3,1,1,
+Subject 18: Kisembo,Male,2,Left,Groom 1,Conflict 2,9,0,1,0,
+Subject 18: Kisembo,Male,3,Right ,Play 2,Conflict 5,5,11,1,1,
+Subject 18: Kisembo,Male,4,Right ,Groom 2,Conflict 3,3,0,1,0,
+Subject 19: Namukisa,Female,1,Left,Groom 1,Conflict 2,2,4,1,1,
+Subject 19: Namukisa,Female,2,Left,Play 2,Conflict 5,0,0,0,0,
+Subject 19: Namukisa,Female,3,Right ,Groom 2,Conflict 1,0,0,0,0,
+Subject 19: Namukisa,Female,4,Right ,Play 1,Conflict 6,0,0,0,0,
+Subject 20: Kaza,Female,1,Right ,Groom 1,Conflict 4,0,0,0,0,
+Subject 20: Kaza,Female,2,Right ,Play 2,Conflict 3,0,0,0,0,
+Subject 20: Kaza,Female,3,Right ,Groom 2,Conflict 5,0,0,0,0,
+Subject 20: Kaza,Female,4,Right ,Play 1,Conflict 1,0,5,0,1,
+Subject 21: Tumbo,Male,1,Right ,Play 1 ,Conflict 4,2,2,1,1,
+Subject 21: Tumbo,Male,2,Right ,Groom 1,Conflict 2,1,1,1,1,
+Subject 21: Tumbo,Male,3,Left,Groom 2,Conflict 6,0,3,0,1,
+Subject 21: Tumbo,Male,4,Left,Play 2,Conflict 3,6,5,1,1,
+Subject 22: Eddie,Male,1,Right ,Play 2,Conflict 2,0,0,0,0,
+Subject 22: Eddie,Male,2,Right ,Groom 2,Conflict 4,0,0,0,0,
+Subject 22: Eddie,Male,3,Left,Groom 1,Conflict 1,0,0,0,0,
+Subject 22: Eddie,Male,4,Left,Play 1 ,Conflict 6,0,0,0,0,
+Subject 23: Bahati,Female,1,Right ,Groom 1,Conflict 1,1,4,1,1,
+Subject 23: Bahati,Female,2,Right ,Play 1 ,Conflict 4,7,4,1,1,
+Subject 23: Bahati,Female,3,Left,Play 2,Conflict 5,0,2,0,1,
+Subject 23: Bahati,Female,4,Left,Groom 2,Conflict 2,6,0,1,0,
+Subject 24: Mawa,Male,1,Left,Groom 2,Conflict 4,0,0,0,0,
+Subject 24: Mawa,Male,2,Left,Play 2,Conflict 5,20,0,1,0,
+Subject 24: Mawa,Male,3,Left,Play 1 ,Conflict 3,0,0,0,0,
+Subject 24: Mawa,Male,4,Left,Groom 1,Conflict 1,0,0,0,0,
+Subject 25: Rutoto ,Male,1,Left,Groom 1,Conflict 3,6,2,1,1,
+Subject 25: Rutoto ,Male,2,Left,Play 2,Conflict 4,0,7,0,1,
